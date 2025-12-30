@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinguaFlow Live",
+  "description": "Premium real-time bidirectional translation app (Chinese <-> English) featuring natural voice synthesis and conversational AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
